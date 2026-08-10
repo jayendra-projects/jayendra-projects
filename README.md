@@ -156,7 +156,7 @@ Currently pursuing opportunities including:
 
 **Graduate Business Analyst • Junior Business Analyst • Business Systems Analyst • Data Analyst • BI Analyst • Reporting Analyst**
 
-Particularly interested in roles where **business analysis and data intersect** — understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
+Particularly interested in roles where **business analysis and data intersect** - understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
 
 ---
 
