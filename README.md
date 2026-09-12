@@ -51,7 +51,7 @@ I work across both **business and technical analysis**, with hands-on experience
 
 # 📂 Selected Business Analysis Portfolio
 
-## 🏥 Horizon Health – Mobile Platform Analysis
+## 🏥 Horizon Health - Mobile Platform Analysis
 
 **Business Analysis | Requirements | BPMN | UML | Process Modelling**
 
@@ -63,7 +63,7 @@ Defined healthcare platform requirements, business rules and system interactions
 
 ---
 
-## 🍽️ Urban FoodShare – Requirements Analysis
+## 🍽️ Urban FoodShare - Requirements Analysis
 
 **Requirements Engineering | User Stories | Acceptance Criteria | System Modelling**
 
@@ -99,7 +99,7 @@ Analysed approximately **50,000 airline customer reviews** using Python to bench
 
 ---
 
-## 🌍 World Vision Australia – BounceBack Campaign Analytics
+## 🌍 World Vision Australia - BounceBack Campaign Analytics
 
 **Decision Analytics | Campaign Analysis | Predictive Modelling**
 
