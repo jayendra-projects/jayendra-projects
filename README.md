@@ -6,7 +6,7 @@ Melbourne, Australia 🇦🇺
 
 I am a Graduate Business Analyst focused on translating **business needs, processes and data into clear requirements, actionable insights and practical solutions**.
 
-My project portfolio demonstrates experience across the Business Analysis lifecycle — from understanding business problems and stakeholder needs through to requirements definition, process modelling, data analysis, dashboard development and evidence-based recommendations.
+My project portfolio demonstrates experience across the Business Analysis lifecycle, from understanding business problems and stakeholder needs through to requirements definition, process modelling, data analysis, dashboard development and evidence-based recommendations.
 
 I work across both **business and technical analysis**, with hands-on experience using SQL, Power BI, Tableau and Python alongside core BA techniques including requirements analysis, stakeholder analysis, process modelling, user stories, acceptance criteria, BPMN and UML.
 
@@ -75,7 +75,7 @@ Translated stakeholder needs and a food-waste business problem into structured f
 
 ---
 
-### 🏫 Queensland School Staffing Ratio Analysis
+###  Queensland School Staffing Ratio Analysis
 ABS Data | Excel | PowerPoint | Data Cleaning
 
 Cleaned and reshaped 20 years of ABS schools data to compare Queensland's government secondary school student-to-teacher ratio with other sectors in the state and with government schools in NSW and Victoria.
@@ -86,7 +86,7 @@ Demonstrates: data cleaning, data analysis, insight-led reporting, PowerPoint an
 
 ---
 
-### 🔥 RBA Firewall Request Process Analysis
+###  RBA Firewall Request Process Analysis
 Business Analysis | Requirements | User Stories | Process Modelling
 
 End-to-end business analysis of a manual firewall request process spread across three disconnected systems: data analysis, stakeholder-driven user stories, a Business Requirements Document, and as-is/to-be process modelling.
