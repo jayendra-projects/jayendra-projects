@@ -93,7 +93,7 @@ End-to-end business analysis of a manual firewall request process spread across 
 
 Demonstrates: requirements engineering, user stories, BRD writing, process modelling, stakeholder analysis.
 
-➡️ View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
+➡️ [View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
 
 ---
 
