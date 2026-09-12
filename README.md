@@ -1,4 +1,4 @@
-# Hi, I'm Jayendra 👋
+# Hi, I'm Jayendra 
 
 ### Graduate Business Analyst | Business Analysis • Data Analytics • Business Intelligence
 
@@ -49,9 +49,9 @@ I work across both **business and technical analysis**, with hands-on experience
 
 ---
 
-# 📂 Selected Business Analysis Portfolio
+#  Selected Business Analysis Portfolio
 
-## 🏥 Horizon Health - Mobile Platform Analysis
+##  Horizon Health - Mobile Platform Analysis
 
 **Business Analysis | Requirements | BPMN | UML | Process Modelling**
 
@@ -63,7 +63,7 @@ Defined healthcare platform requirements, business rules and system interactions
 
 ---
 
-## 🍽️ Urban FoodShare - Requirements Analysis
+##  Urban FoodShare - Requirements Analysis
 
 **Requirements Engineering | User Stories | Acceptance Criteria | System Modelling**
 
@@ -75,7 +75,29 @@ Translated stakeholder needs and a food-waste business problem into structured f
 
 ---
 
-## 🛒 Customer Transaction & RFM Analytics
+### 🏫 Queensland School Staffing Ratio Analysis
+ABS Data | Excel | PowerPoint | Data Cleaning
+
+Cleaned and reshaped 20 years of ABS schools data to compare Queensland's government secondary school student-to-teacher ratio with other sectors in the state and with government schools in NSW and Victoria.
+
+Demonstrates: data cleaning, data analysis, insight-led reporting, PowerPoint and Excel deliverables.
+
+➡️ [View Project](https://github.com/jayendra-projects/qld-student-teacher-ratio-analysis)
+
+---
+
+### 🔥 RBA Firewall Request Process Analysis
+Business Analysis | Requirements | User Stories | Process Modelling
+
+End-to-end business analysis of a manual firewall request process spread across three disconnected systems: data analysis, stakeholder-driven user stories, a Business Requirements Document, and as-is/to-be process modelling.
+
+Demonstrates: requirements engineering, user stories, BRD writing, process modelling, stakeholder analysis.
+
+➡️ View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
+
+---
+
+##  Customer Transaction & RFM Analytics
 
 **SQL | Google BigQuery | Customer Analytics | Segmentation**
 
@@ -87,7 +109,7 @@ Used SQL and BigQuery to analyse customer transactions and engagement behaviour 
 
 ---
 
-## ✈️ Airline Customer Experience Analytics
+##  Airline Customer Experience Analytics
 
 **Python | NLP | Customer Analytics | Sentiment Analysis**
 
@@ -99,7 +121,7 @@ Analysed approximately **50,000 airline customer reviews** using Python to bench
 
 ---
 
-## 🌍 World Vision Australia - BounceBack Campaign Analytics
+##  World Vision Australia - BounceBack Campaign Analytics
 
 **Decision Analytics | Campaign Analysis | Predictive Modelling**
 
@@ -113,7 +135,7 @@ The project combined descriptive, diagnostic and predictive analysis while evalu
 
 ---
 
-## 🛡️ Phishing Risk & Business Intelligence
+##  Phishing Risk & Business Intelligence
 
 **Power BI | Risk Analytics | KPI Reporting | Stakeholder Dashboards**
 
@@ -151,10 +173,6 @@ Customer Analytics • RFM Segmentation • Sentiment Analysis • Predictive An
 ---
 
 # 🎯 Career Focus
-
-Currently pursuing opportunities including:
-
-**Graduate Business Analyst • Junior Business Analyst • Business Systems Analyst • Data Analyst • BI Analyst • Reporting Analyst**
 
 Particularly interested in roles where **business analysis and data intersect** - understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
 
