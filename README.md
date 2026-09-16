@@ -171,16 +171,6 @@ Developed stakeholder-focused business intelligence reporting for simulated phis
 
 ---
 
-### 📊 Victorian Road Crash & Injury Analytics
-
-**Tableau | Data Visualisation | Decision Support**
-
-Analysed Victorian road crash and injury data to identify temporal, geographic, crash-condition and road-user patterns through interactive Tableau analytics.
-
-➡️ [View Project](https://github.com/jayendra-projects/victorian-road-crash-analytics)
-
----
-
 # 🧰 Toolkit
 
 **Business Analysis:**  
