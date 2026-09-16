@@ -51,27 +51,29 @@ I work across both **business and technical analysis**, with hands-on experience
 
 #  Selected Business Analysis Portfolio
 
-### 📊  Horizon Health - Mobile Platform Analysis
+### 📊  World Vision Australia - BounceBack Campaign Analytics
 
-**Business Analysis | Requirements | BPMN | UML | Process Modelling**
+**Decision Analytics | Campaign Analysis | Predictive Modelling**
 
-Defined healthcare platform requirements, business rules and system interactions and translated them into structured process and system models.
+Analysed donor behaviour, campaign timing, communication channels and giving patterns to identify opportunities for more targeted fundraising decisions.
 
-**Demonstrates:** requirements analysis, use cases, BPMN, UML sequence modelling, domain modelling and business-rule analysis.
+The project combined descriptive, diagnostic and predictive analysis while evaluating model limitations before translating findings into business recommendations.
 
-➡️ [View Project](https://github.com/jayendra-projects/horizon-health-mobile-platform-analysis)
+**Demonstrates:** business problem analysis, campaign analytics, predictive modelling, model interpretation, KPI development and evidence-based recommendations.
+
+➡️ [View Project](https://github.com/jayendra-projects/world-vision-bounceback-analytics)
 
 ---
 
-### 📊  Urban FoodShare - Requirements Analysis
+### 📊  R.E. Weerakoon Constructions - Cash Conversion Cycle
 
-**Requirements Engineering | User Stories | Acceptance Criteria | System Modelling**
+**Business Analysis | Root-Cause Analysis | Process Design | Financial Analysis**
 
-Translated stakeholder needs and a food-waste business problem into structured functional, quality and business requirements supported by user stories, acceptance criteria, use cases and process models.
+Diagnosed why renovation projects tied up cash for 38% longer than the industry benchmark, then designed an inventory control process, a receivables policy and a supplier evaluation framework projected to cut the cash conversion cycle from 140 to 87 days at a 12.1:1 benefit-cost ratio.
 
-**Demonstrates:** stakeholder analysis, requirements engineering, user stories, acceptance criteria, use cases, process modelling and solution definition.
+**Demonstrates:** root-cause analysis, process design, financial analysis, business case development.
 
-➡️ [View Project](https://github.com/jayendra-projects/urban-foodshare-requirements-analysis)
+➡️ [View Project](https://github.com/jayendra-projects/rewc-cash-conversion-cycle)
 
 ---
 
@@ -86,14 +88,15 @@ Demonstrates: data cleaning, data analysis, insight-led reporting, PowerPoint an
 
 ---
 
-### 📊  Reserve Bank of Australia Firewall Request Process Analysis
-Business Analysis | Requirements | User Stories | Process Modelling
+### 📊  PetrolCo Refinery Profit Optimisation
 
-End-to-end business analysis of a manual firewall request process spread across three disconnected systems: data analysis, stakeholder-driven user stories, a Business Requirements Document, and as-is/to-be process modelling.
+**Linear Programming | Excel Solver | Sensitivity Analysis**
 
-Demonstrates: requirements engineering, user stories, BRD writing, process modelling, stakeholder analysis.
+Modelled a refinery's three-stage refining process (distillation, conversion, blending) as a linear program in Excel Solver, then used sensitivity analysis on equipment capacity and crude pricing to find a more profitable crude mix and price the value of additional capacity.
 
-➡️ [View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
+**Demonstrates:** linear programming, Excel Solver, sensitivity analysis, optimisation modelling.
+
+➡️ [View Project](https://github.com/jayendra-projects/ampol-refinery-optimisation)
 
 ---
 
@@ -121,17 +124,38 @@ Analysed approximately **50,000 airline customer reviews** using Python to bench
 
 ---
 
-### 📊  World Vision Australia - BounceBack Campaign Analytics
+### 📊  Reserve Bank of Australia Firewall Request Process Analysis
+Business Analysis | Requirements | User Stories | Process Modelling
 
-**Decision Analytics | Campaign Analysis | Predictive Modelling**
+End-to-end business analysis of a manual firewall request process spread across three disconnected systems: data analysis, stakeholder-driven user stories, a Business Requirements Document, and as-is/to-be process modelling.
 
-Analysed donor behaviour, campaign timing, communication channels and giving patterns to identify opportunities for more targeted fundraising decisions.
+Demonstrates: requirements engineering, user stories, BRD writing, process modelling, stakeholder analysis.
 
-The project combined descriptive, diagnostic and predictive analysis while evaluating model limitations before translating findings into business recommendations.
+➡️ [View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
 
-**Demonstrates:** business problem analysis, campaign analytics, predictive modelling, model interpretation, KPI development and evidence-based recommendations.
+---
 
-➡️ [View Project](https://github.com/jayendra-projects/world-vision-bounceback-analytics)
+### 📊  Horizon Health - Mobile Platform Analysis
+
+**Business Analysis | Requirements | BPMN | UML | Process Modelling**
+
+Defined healthcare platform requirements, business rules and system interactions and translated them into structured process and system models.
+
+**Demonstrates:** requirements analysis, use cases, BPMN, UML sequence modelling, domain modelling and business-rule analysis.
+
+➡️ [View Project](https://github.com/jayendra-projects/horizon-health-mobile-platform-analysis)
+
+---
+
+### 📊  Urban FoodShare - Requirements Analysis
+
+**Requirements Engineering | User Stories | Acceptance Criteria | System Modelling**
+
+Translated stakeholder needs and a food-waste business problem into structured functional, quality and business requirements supported by user stories, acceptance criteria, use cases and process models.
+
+**Demonstrates:** stakeholder analysis, requirements engineering, user stories, acceptance criteria, use cases, process modelling and solution definition.
+
+➡️ [View Project](https://github.com/jayendra-projects/urban-foodshare-requirements-analysis)
 
 ---
 
