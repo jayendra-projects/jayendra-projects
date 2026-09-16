@@ -186,7 +186,7 @@ Customer Analytics • RFM Segmentation • Sentiment Analysis • Predictive An
 
 # 🎯 Career Focus
 
-Particularly interested in roles where **business analysis and data intersect** - understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
+Interested in roles where **business analysis and data intersect** - understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
 
 ---
 
