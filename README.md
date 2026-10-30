@@ -1,198 +1,202 @@
-# Hi, I'm Jayendra 
+# Hi, I'm Jayendra
 
-### Graduate Business Analyst | Business Analysis • Data Analytics • Business Intelligence
+### Construction Contracts | Project Reporting | Business and Data Analysis
 
 Melbourne, Australia 🇦🇺
 
-I am a Graduate Business Analyst focused on translating **business needs, processes and data into clear requirements, actionable insights and practical solutions**.
+I spent nine years on government building projects in Sri Lanka, first administering contracts and later analysing project finance. I now use **Power BI, SQL and Excel to give project teams clear reporting on cost, variations and performance**, so problems surface before they reach the budget.
 
-My project portfolio demonstrates experience across the Business Analysis lifecycle, from understanding business problems and stakeholder needs through to requirements definition, process modelling, data analysis, dashboard development and evidence-based recommendations.
+This portfolio holds the analysis behind that shift. It starts with a cash flow problem I worked on in construction, then moves through my capstone project with World Vision Australia, business analysis work on requirements and process modelling, and data projects from my Master of Business Analytics at Deakin University.
 
-I work across both **business and technical analysis**, with hands-on experience using SQL, Power BI, Tableau and Python alongside core BA techniques including requirements analysis, stakeholder analysis, process modelling, user stories, acceptance criteria, BPMN and UML.
+Most projects here begin with a real business problem, involve the people affected by it, and finish with a recommendation someone can act on.
 
 ---
 
 ## 🔎 What I Work With
 
+### Project and Contract Reporting
+
+- Budget, actuals, commitments and variance reporting
+- Cost and cash flow analysis
+- KPI definition for project and finance teams
+- Root cause analysis
+- Business cases and benefit-cost analysis
+- Supplier and contractor performance analysis
+
 ### Business Analysis
 
-- Requirements elicitation & analysis
-- Stakeholder analysis
-- Functional & non-functional requirements
-- User stories & acceptance criteria
-- Business rules
-- Current-state / future-state analysis
-- Process mapping
-- BPMN 2.0
-- UML & use cases
+- Requirements elicitation and analysis
+- Stakeholder analysis and engagement
+- Current and future state process mapping
+- BPMN 2.0, UML and use cases
+- User stories, acceptance criteria and business rules
+- Business Requirements Documents (BRD)
 - Gap analysis
-- Root-cause analysis
-- KPI definition
-- Business recommendations
 
-### Data & Business Intelligence
+### Data and Business Intelligence
 
-- SQL
-- Google BigQuery
-- Power BI
+- Power BI dashboards and report suites
+- SQL in Google BigQuery
+- Microsoft Excel, including Solver and VBA
 - Tableau
-- Microsoft Excel
-- Python
-- Pandas
-- Exploratory Data Analysis
-- Data cleaning & validation
-- Dashboard development
-- KPI & variance analysis
-- Customer segmentation
-- Predictive & decision analytics
-- Data visualisation
+- Python and Pandas
+- Data cleaning and validation
+- Customer segmentation and predictive analytics
 
 ---
 
-#  Selected Business Analysis Portfolio
+# Selected Portfolio
 
-### 📊  World Vision Australia - BounceBack Campaign Analytics
+## Project, Cost and Process Analysis
 
-**Decision Analytics | Campaign Analysis | Predictive Modelling**
+### 📊 R.E.W. Constructions: Cash Conversion Cycle
 
-Analysed donor behaviour, campaign timing, communication channels and giving patterns to identify opportunities for more targeted fundraising decisions.
+**Root Cause Analysis | Process Design | Financial Analysis | Business Case**
 
-The project combined descriptive, diagnostic and predictive analysis while evaluating model limitations before translating findings into business recommendations.
+Diagnosed why renovation projects tied up cash for 140 days, against an 87-day industry benchmark. Interviewed finance, procurement and operations staff, traced the problem to seven root causes, then designed an inventory control process, a receivables policy, a work breakdown structure for progress invoicing and a supplier evaluation framework, with a projected benefit-cost ratio of 12.1 to 1.
 
-**Demonstrates:** business problem analysis, campaign analytics, predictive modelling, model interpretation, KPI development and evidence-based recommendations.
-
-➡️ [View Project](https://github.com/jayendra-projects/world-vision-bounceback-analytics)
-
----
-
-### 📊  R.E. Weerakoon Constructions - Cash Conversion Cycle
-
-**Business Analysis | Root-Cause Analysis | Process Design | Financial Analysis**
-
-Diagnosed why renovation projects tied up cash for 38% longer than the industry benchmark, then designed an inventory control process, a receivables policy and a supplier evaluation framework projected to cut the cash conversion cycle from 140 to 87 days at a 12.1:1 benefit-cost ratio.
-
-**Demonstrates:** root-cause analysis, process design, financial analysis, business case development.
+**Demonstrates:** root cause analysis, stakeholder interviews, process design, financial analysis and business case development in a construction setting.
 
 ➡️ [View Project](https://github.com/jayendra-projects/rewc-cash-conversion-cycle)
 
 ---
 
-### 📊  Queensland School Staffing Ratio Analysis
-ABS Data | Excel | PowerPoint | Data Cleaning
+### 📊 World Vision Australia: BounceBack Campaign Analytics
 
-Cleaned and reshaped 20 years of ABS schools data to compare Queensland's government secondary school student-to-teacher ratio with other sectors in the state and with government schools in NSW and Victoria.
+**Capstone Consulting Project | SQL | KNIME | Predictive Modelling**
 
-Demonstrates: data cleaning, data analysis, insight-led reporting, PowerPoint and Excel deliverables.
+Worked in a team of six to explain why campaign donation value fell from about $21 million to $1 million over seven years. Joined more than 50,000 donor records, showed that gift size rather than response rate drove the decline, and tested predictive models before turning the findings into recommendations on channel mix, timing and ask amounts.
 
-➡️ [View Project](https://github.com/jayendra-projects/qld-student-teacher-ratio-analysis)
+**Demonstrates:** clarifying client needs, joining and validating data, diagnostic and predictive analysis, KPI development and recommendations for non-technical stakeholders.
 
----
-
-### 📊  PetrolCo Refinery Profit Optimisation
-
-**Linear Programming | Excel Solver | Sensitivity Analysis**
-
-Modelled a refinery's three-stage refining process (distillation, conversion, blending) as a linear program in Excel Solver, then used sensitivity analysis on equipment capacity and crude pricing to find a more profitable crude mix and price the value of additional capacity.
-
-**Demonstrates:** linear programming, Excel Solver, sensitivity analysis, optimisation modelling.
-
-➡️ [View Project](https://github.com/jayendra-projects/ampol-refinery-optimisation)
+➡️ [View Project](https://github.com/jayendra-projects/world-vision-bounceback-analytics)
 
 ---
 
-### 📊  Customer Transaction & RFM Analytics
+### 📊 Reserve Bank of Australia: Firewall Request Process Analysis
 
-**SQL | Google BigQuery | Customer Analytics | Segmentation**
+**Virtual Experience Program | Requirements | User Stories | Process Modelling**
 
-Used SQL and BigQuery to analyse customer transactions and engagement behaviour and develop RFM-based customer segmentation for business decision support.
+Analysed a manual firewall request process spread across three disconnected systems. Reviewed request data in Power BI, wrote stakeholder-driven user stories and a Business Requirements Document, and modelled the current and future state process.
 
-**Demonstrates:** SQL, data quality analysis, CTEs, joins, window functions, RFM analysis, customer segmentation and business insight generation.
-
-➡️ [View Project](https://github.com/jayendra-projects/customer-rfm-analytics-sql)
-
----
-
-### 📊  Airline Customer Experience Analytics
-
-**Python | NLP | Customer Analytics | Sentiment Analysis**
-
-Analysed approximately **50,000 airline customer reviews** using Python to benchmark customer experience, investigate sentiment and identify recurring service themes from unstructured customer feedback.
-
-**Demonstrates:** Python, Pandas, exploratory data analysis, data visualisation, sentiment analysis, NLP and topic modelling.
-
-➡️ [View Project](https://github.com/jayendra-projects/airline-customer-experience-analytics)
-
----
-
-### 📊  Reserve Bank of Australia Firewall Request Process Analysis
-Business Analysis | Requirements | User Stories | Process Modelling
-
-End-to-end business analysis of a manual firewall request process spread across three disconnected systems: data analysis, stakeholder-driven user stories, a Business Requirements Document, and as-is/to-be process modelling.
-
-Demonstrates: requirements engineering, user stories, BRD writing, process modelling, stakeholder analysis.
+**Demonstrates:** requirements engineering, BRD writing, process modelling and stakeholder analysis for a public sector organisation.
 
 ➡️ [View Project](https://github.com/jayendra-projects/rba-firewall-process-analysis)
 
 ---
 
-### 📊  Horizon Health - Mobile Platform Analysis
+### 📊 PetrolCo: Refinery Profit Optimisation
 
-**Business Analysis | Requirements | BPMN | UML | Process Modelling**
+**Linear Programming | Excel Solver | Sensitivity Analysis**
 
-Defined healthcare platform requirements, business rules and system interactions and translated them into structured process and system models.
+Modelled a refinery's three-stage process (distillation, conversion and blending) as a linear program in Excel Solver, then used sensitivity analysis on equipment capacity and crude pricing to find a more profitable crude mix and put a value on additional capacity.
 
-**Demonstrates:** requirements analysis, use cases, BPMN, UML sequence modelling, domain modelling and business-rule analysis.
+**Demonstrates:** cost and capacity modelling, Excel Solver, sensitivity analysis and decision support for operations.
+
+➡️ [View Project](https://github.com/jayendra-projects/ampol-refinery-optimisation)
+
+---
+
+## Business Analysis and Requirements
+
+### 📊 Horizon Health: Mobile Platform Analysis
+
+**Business Analysis | Requirements | BPMN | UML**
+
+Defined requirements, business rules and system interactions for a healthcare platform, then translated them into BPMN process models and UML use case, sequence and domain models for a development team.
+
+**Demonstrates:** requirements analysis, use cases, BPMN, UML modelling and business rule analysis.
 
 ➡️ [View Project](https://github.com/jayendra-projects/horizon-health-mobile-platform-analysis)
 
 ---
 
-### 📊  Urban FoodShare - Requirements Analysis
+### 📊 Urban FoodShare: Requirements Analysis
 
 **Requirements Engineering | User Stories | Acceptance Criteria | System Modelling**
 
-Translated stakeholder needs and a food-waste business problem into structured functional, quality and business requirements supported by user stories, acceptance criteria, use cases and process models.
+Turned a food waste problem and stakeholder needs into structured functional, quality and business requirements, supported by personas, user stories, acceptance criteria, use cases and process models. Awarded a High Distinction.
 
-**Demonstrates:** stakeholder analysis, requirements engineering, user stories, acceptance criteria, use cases, process modelling and solution definition.
+**Demonstrates:** stakeholder analysis, requirements engineering, acceptance criteria and solution definition.
 
 ➡️ [View Project](https://github.com/jayendra-projects/urban-foodshare-requirements-analysis)
 
 ---
 
-### 📊  Phishing Risk & Business Intelligence
+## Data and Reporting
 
-**Power BI | Risk Analytics | KPI Reporting | Stakeholder Dashboards**
+### 📊 Phishing Risk Business Intelligence
 
-Developed stakeholder-focused business intelligence reporting for simulated phishing campaigns, translating different information requirements into dashboards for campaign management, HR and individual users.
+**Power BI | KPI Reporting | Stakeholder Dashboards**
 
-**Demonstrates:** requirements analysis, KPI definition, Power BI, dashboard design, risk analysis, stakeholder reporting and decision support.
+Built Power BI reporting for simulated phishing campaigns, turning the different information needs of campaign managers, HR and individual users into three role-specific dashboards.
+
+**Demonstrates:** reporting requirements, KPI definition, Power BI data modelling and dashboard design for different audiences.
 
 ➡️ [View Project](https://github.com/jayendra-projects/phishing-risk-business-intelligence)
 
 ---
 
+### 📊 Customer Transaction and RFM Analytics
+
+**SQL | Google BigQuery | Customer Segmentation**
+
+Used SQL in BigQuery to validate and join customer and transaction tables, then built an RFM segmentation across more than 15,000 transactions to support business decisions.
+
+**Demonstrates:** SQL, data quality checks, CTEs, joins, window functions and segmentation.
+
+➡️ [View Project](https://github.com/jayendra-projects/customer-rfm-analytics-sql)
+
+---
+
+### 📊 Queensland School Staffing Ratio Analysis
+
+**ABS Data | Excel | Data Cleaning | Reporting**
+
+Cleaned and reshaped 20 years of ABS schools data to compare Queensland's government secondary student-to-teacher ratio with other sectors in the state and with government schools in NSW and Victoria.
+
+**Demonstrates:** working with public sector data, data cleaning and clear reporting in Excel and PowerPoint.
+
+➡️ [View Project](https://github.com/jayendra-projects/qld-student-teacher-ratio-analysis)
+
+---
+
+### 📊 Airline Customer Experience Analytics
+
+**Python | NLP | Sentiment Analysis**
+
+Analysed about 50,000 airline customer reviews in Python to benchmark customer experience, measure sentiment and identify recurring service themes in unstructured feedback.
+
+**Demonstrates:** Python, Pandas, exploratory data analysis, sentiment analysis and topic modelling.
+
+➡️ [View Project](https://github.com/jayendra-projects/airline-customer-experience-analytics)
+
+---
+
 # 🧰 Toolkit
 
-**Business Analysis:**  
-Requirements Analysis • Stakeholder Analysis • User Stories • Acceptance Criteria • BPMN • UML • Process Mapping • Business Rules • Root-Cause Analysis • KPI Development
+**Project and Contract Reporting:**
+Budget and Variance Reporting • Cost Analysis • KPI Definition • Root Cause Analysis • Business Cases
 
-**Data & BI:**  
-SQL • Google BigQuery • Power BI • Tableau • Excel • Python • Pandas • Data Visualisation • EDA
+**Business Analysis:**
+Requirements Analysis • Stakeholder Engagement • Process Mapping • BPMN • UML • User Stories • Acceptance Criteria • BRD
 
-**Analytics:**  
-Customer Analytics • RFM Segmentation • Sentiment Analysis • Predictive Analytics • Decision Analytics • KPI & Performance Analysis
+**Data and BI:**
+Power BI • SQL • Google BigQuery • Excel • Tableau • Python • Pandas
 
 ---
 
 # 🎯 Career Focus
 
-Interested in roles where **business analysis and data intersect** - understanding stakeholder needs, improving processes, defining requirements and using data to support better business decisions.
+Looking for contract administration, project analyst and business analyst roles in **construction, infrastructure and local government** across Victoria, where contract experience and data skills are both put to use.
 
 ---
 
 ## 📫 Connect With Me
 
 📍 Melbourne, Victoria, Australia
+
+🌐 [Website](https://jayendraportfolio.netlify.app)
 
 💼 [LinkedIn](https://www.linkedin.com/in/jayendra-weerakoon/)
 
